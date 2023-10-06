@@ -1,0 +1,23 @@
+GraphEasy could not parse your equation, try adding parenthesis?
+There's something wrong with your equation...
+I didn't feel too good about that equation...
+Error: The answer you seek is not in this equation
+Error: The equation you entered is like a bad joke, it's not funny
+Error: This equation is more complex than a labyrinth
+Error: I'm not sure what you're trying to do, but it's not working
+Error: Function overload, please try again later
+Error: Math is hard, let's go shopping
+Error: Not even close, keep trying
+Error: Not a function, more like a failure
+Error: Does not compute... or does it?
+Error: Equation gone wrong, please try again
+That's not how math works, I'm afraid
+I'm sorry, I can't make sense of that
+Looks like someone's trying to break me!
+I'm not sure what you're trying to accomplish with that equation
+I think you may have forgotten to add a number there
+I'm afraid I can't plot that, it's beyond my capabilities
+Please check your parentheses, they seem to be confused
+I'm pretty sure that's not how you spell calculus
+I think you meant to divide, not multiply
+Looks like someone needs to go back to math class
